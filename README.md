@@ -6,7 +6,7 @@
 # Objective
 
 # 🧰 Tool
-|------ | ---- | 
+|------|----| 
 | Tool | Purpose|
 | Microsoft Excel | Cleaning and Visualization |
 |Power Query| Transformation |
