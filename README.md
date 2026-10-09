@@ -49,6 +49,8 @@ Insights & Recommendations
 
 # 📌 Key Insights
 - Flight Delay Analysis
+- <img width="634" height="410" alt="Image" src="https://github.com/user-attachments/assets/da84372e-07d9-4baa-8d4e-8cfd82ddc86a" />
+
 
 # Recommendations
 |Priority| Recommendation| Impact | Suggested Owner|
