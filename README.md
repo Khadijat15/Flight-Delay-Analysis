@@ -1,5 +1,5 @@
 # Uncovering causes of Flight Delays: An Airline Operations Analysis
-## 🌐 [PORTFOLIO](https://lamidikhadijat.vercel.app/)  👀 READ FULL ARTICLE ON MEDIUM
+## 🌐 [PORTFOLIO](https://lamidikhadijat.vercel.app/) 🔗[LinkedIn](https://www.linkedin.com/in/khadijatlamidi/) 👀 READ FULL ARTICLE ON MEDIUM
 
 # 🌼Project Overview
 
