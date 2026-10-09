@@ -46,6 +46,7 @@ Insights & Recommendations
 7. Reporting: Documented key findings and provided actionable recommendations.
 
 # Data Model
+<img width="738" height="366" alt="Image" src="https://github.com/user-attachments/assets/a354509b-b6c7-4ffe-ab13-142ccf795bb8" />
 
 # 📌 Key Insights
 - Flight Delay Analysis
