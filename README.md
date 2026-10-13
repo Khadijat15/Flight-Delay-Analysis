@@ -50,7 +50,7 @@ Insights & Recommendations
 
 # 📌 Key Insights
 - Flight Delay Analysis
-  <img width="645" height="420" alt="Image" src="https://github.com/user-attachments/assets/1a31f20b-81e1-48fd-86b3-35630661fea1" />
+- <img width="645" height="420" alt="Image" src="https://github.com/user-attachments/assets/1a31f20b-81e1-48fd-86b3-35630661fea1" />
 
 ## Insights
 a. The overall flight performance showed a mixed pattern. Over the months the total flights and delayed flights decreased but the average delay duration increased. This suggests that fewer flights didn't necessarily mean shorter delays.
