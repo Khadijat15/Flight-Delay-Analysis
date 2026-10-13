@@ -1,5 +1,5 @@
 # Uncovering causes of Flight Delays: An Airline Operations Analysis
-## 🌐 [PORTFOLIO](https://lamidikhadijat.vercel.app/) 🔗[LinkedIn](https://www.linkedin.com/in/khadijatlamidi/) 👀 READ FULL ARTICLE ON MEDIUM
+## 🌐 [PORTFOLIO](https://lamidikhadijat.vercel.app/) 🔗[LinkedIn](https://www.linkedin.com/in/khadijatlamidi/) 👀 [READ FULL ARTICLE ON MEDIUM](https://medium.com/@omowunmikhadijat011/uncovering-causes-of-flight-delays-an-airline-operations-analysis-ed2607f572f0)
 
 # 🌼Project Overview
 This project analyses US flight data to examine flight performance, identify patterns in delays and cancellations, and compare operational performance across airlines and airports. Using Microsoft Excel, Power Query, and Power Pivot, the analysis explores flight status, delay frequency, average delay duration, and recorded reasons for delays.
