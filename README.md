@@ -2,9 +2,17 @@
 ## 🌐 [PORTFOLIO](https://lamidikhadijat.vercel.app/) 🔗[LinkedIn](https://www.linkedin.com/in/khadijatlamidi/) 👀 READ FULL ARTICLE ON MEDIUM
 
 # 🌼Project Overview
+This project analyses US flight data to examine flight performance, identify patterns in delays and cancellations, and compare operational performance across airlines and airports. Using Microsoft Excel, Power Query, and Power Pivot, the analysis explores flight status, delay frequency, average delay duration, and recorded reasons for delays.
+
+The project aims to provide insights into areas where delays are concentrated and highlight operational challenges that may require further investigation. These insights can support more informed decision-making and help identify opportunities to improve punctuality and operational efficiency in the airline industry.
 
 # Objective
-
+- Analyse flight performance by examining delays, cancellations, early arrivals, and on-time flights.
+- Identify patterns in flight delays and compare performance across airlines and airports.
+- Investigate the frequency of recorded delay reasons and compare their associated average delay durations.
+- Identify airlines and airports with notable delay figures or rates that may warrant further investigation.
+- Develop data-driven recommendations to help identify opportunities to reduce delays, improve punctuality, and support more efficient airline operations.
+  
 # 🧰 Tool
 | Tool | Purpose|
 |------|--------| 
@@ -59,7 +67,7 @@ c.  The most frequent delay reason was not necessarily the reason associated wit
 d.  ORD airport had the highest delay count, making it an important airport for further investigation. However, this does not automatically mean it had the poorest punctuality performance because airports handle different numbers of flights.
 e. Approximately 55% of United Airlines flights in the dataset were delayed. This indicates a potential punctuality concern that may warrant further investigation.
 
-# Recommendations
+# 🌻Recommendations
 |Priority| Recommendation| Impact | Suggested Owner|
 |--------|---------------|-----------------|----------------|
 |High | Investigate the factors contributing to United Airlines’ high delay rate of approximately 55% | Identify potential operational issues and opportunities to improve punctuality| United Airlines Operations Management|
